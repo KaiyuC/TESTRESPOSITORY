@@ -1,4 +1,7 @@
-TESTRESPOSITORY
-===============
+测试仓库
+--------------------
+1.这仅仅是一个测试的仓库；<br>
+2.该仓库不定期会更新一些测试代码；<br>
+3.该仓库测试代码不能保证完全正确性；<br>
+4.欢迎关注我的新浪微博. [流景闲鱼](http://weibo.com/u/5242038875)
 
-THIS IS A RESPOSITORY FOR ME TO TEST SOME CODES AND OTHERS NEED NOT TO CLONE !
